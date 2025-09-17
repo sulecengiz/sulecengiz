@@ -1,4 +1,4 @@
-![Header](./github-header-banner(2).png)
+![Header](./github-header-banner.png)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+Seriff&weight=750&size=23&duration=4250&pause=1000&color=F7F0B6&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Python+%2F+C%23+%2F+Java+%2F+.NET+Core;%F0%9F%8C%90+Web+Developing+(HTML%2CCSS%2CJS);%F0%9F%9A%80+Aspiring+Full-Stack+Developer" alt="Typing SVG" /></a>
